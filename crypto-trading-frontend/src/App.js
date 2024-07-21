@@ -20,6 +20,7 @@ const timeFrame = [
   { value: '15m', name: '15 min' },
   { value: '1h', name: '1 h' },
   { value: '12h', name: '12 h' },
+  { value: '320m', name: '5,5 h' },
 ];
 
 function App() {
